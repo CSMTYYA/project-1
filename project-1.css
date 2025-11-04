@@ -45,4 +45,9 @@ body{
     margin-left: 60px;
     margin-top: 0px;
     font-size: large;
+    margin-right: 900px;
+}
+
+.topic-name{
+    font-size:larger ;
 }
